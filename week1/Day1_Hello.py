@@ -1,0 +1,5 @@
+print("Hello, World!")
+print("I'm Hwanee.")
+print("안녕하세요. 반갑습니다.")
+print("1234567890")
+print("3.14")
